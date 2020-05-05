@@ -4,9 +4,9 @@ def display_board
   pipe = '|'
   divider = '-----------'
   print cell, pipe, cell, pipe, cell, "\n"
-  print divider
+  print divider, "\n"
   print cell, pipe, cell, pipe, cell, "\n"
-  print divider
+  print divider, "\n"
   print cell, pipe, cell, pipe, cell
 end
 
