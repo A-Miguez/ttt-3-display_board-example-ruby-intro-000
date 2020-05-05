@@ -3,11 +3,9 @@ def display_board
   cell = "   "
   pipe = '|'
   divider = '-----------'
-  print cell, pipe, cell, pipe
-  puts cell
+  print cell, pipe, cell, pipe, cell
   print divider
-  print cell, pipe, cell, pipe,
-  puts cell
+  print cell, pipe, cell, pipe, cell
   print divider
   print cell, pipe, cell, pipe, cell
 end
