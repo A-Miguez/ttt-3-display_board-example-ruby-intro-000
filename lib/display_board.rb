@@ -9,4 +9,5 @@ def display_board
   return divider
   return cell, pipe, cell, pipe, cell
 end
+
 display_board
