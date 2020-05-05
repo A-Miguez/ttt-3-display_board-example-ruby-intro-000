@@ -7,7 +7,7 @@ def display_board
   print divider, "\n"
   print cell, pipe, cell, pipe, cell, "\n"
   print divider, "\n"
-  print cell, pipe, cell, pipe, cell
+  print cell, pipe, cell, pipe, cell, "\n"
 end
 
 display_board
